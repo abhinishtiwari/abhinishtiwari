@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Science student at VITS Satna with a strong passion for **Data Science**, **Machine Learning**, and **Generative AI**.
+🎓 I am a Computer Science student at VITS Satna with a strong passion for **Data Science**, **Machine Learning**, and **Generative AI**.
 
 🧠 Experienced in building chatbots with **RAG Models**, developing real-time systems like **Number Plate Detection**, and creating AI virtual assistants.
 
