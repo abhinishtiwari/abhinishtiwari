@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **abhinishtiwari02@gmail.com**
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/abhinish-tiwari-945914260)
-- 💻 My projects @ [GitHub](https://github.com/abhinishtiwari)
+- 💻 My projects [GitHub](https://github.com/abhinishtiwari)
 
 ---
 
